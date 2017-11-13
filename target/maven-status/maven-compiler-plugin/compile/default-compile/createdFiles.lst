@@ -1,0 +1,12 @@
+com\d9plan\qPaper\config\QPaperAppContextConfig.class
+com\d9plan\qPaper\contoller\QPaperDashboardController.class
+com\d9plan\qPaper\dao\PersonDao.class
+com\d9plan\qPaper\model\Persons.class
+com\d9plan\qPaper\config\QPaperWebMvcConfig.class
+com\d9plan\qPaper\contoller\QPaperStatsController.class
+com\d9plan\qPaper\util\DBHibernateDaoSupport.class
+com\d9plan\qPaper\service\impl\PersonServiceImpl.class
+com\d9plan\qPaper\service\PersonService.class
+com\d9plan\qPaper\config\QPaperWebAppInitializer.class
+com\d9plan\qPaper\contoller\QPaperAdminController.class
+com\d9plan\qPaper\dao\impl\PersonDaoImpl.class
